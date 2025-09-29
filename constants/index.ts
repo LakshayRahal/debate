@@ -112,7 +112,7 @@ export const topicIconMap: Record<string, string> = {
   "environment & climate": "/icons/climate.jpeg",
   "health & medicine": "/icons/healthcare.png",
   "education & society": "/icons/education.png",
-  "ethics & philosophy": "/icons/philosophy.png",
+  "ethics & philosophy": "/icons/philosophy.jpg",
   "international relations": "/icons/international.png",
   "science & research": "/icons/science.png",
   general: "/icons/general.png", // fallback
